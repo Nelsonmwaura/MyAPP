@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ce4d87a-1103-4f87-8f85-140ec9db5a18" name="Default Changelist" comment="gitignore file">
+      <change afterPath="$PROJECT_DIR$/../Hello-world/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/DoubleIt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/DoubleIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/FavoriteColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/FavoriteColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/GroceryList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hotel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hoteli.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/Hoteli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/MealTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/MealTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/RatedR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/RatedR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/StartsWithZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/StartsWithZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/Vehicles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello-world/car-dealership/car-dealership.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/Java REPL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/src/com/student/moringa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java REPL/src/com/student/moringa/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Ping_Pong_StarterCode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/LeapYear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn-Gitignore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn-Gitignore/Learn-Gitignore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn-Gitignore/src/com/student/moringa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Moringa-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyApp/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyApp/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/com/student/moringa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/functionalTest/java/Rectangle/RectanglePluginFunctionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/java/RectanglePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/main/java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangle/src/test/java/Rectangle/RectanglePluginTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hEKoBG1XOlQYzYyx7MbU6a1y38" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="MyApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="MyApp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce4d87a-1103-4f87-8f85-140ec9db5a18" name="Default Changelist" comment="" />
+      <created>1599570992057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599570992057</updated>
+      <workItem from="1599570994139" duration="6677000" />
+      <workItem from="1599597541839" duration="1899000" />
+      <workItem from="1599648208856" duration="10718000" />
+      <workItem from="1599675402195" duration="1238000" />
+      <workItem from="1599720057426" duration="314000" />
+      <workItem from="1599757651266" duration="2621000" />
+      <workItem from="1599763717063" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="66" key="#Inspections" timestamp="1599653499154">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="626" y="66" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1599653499154" />
+    <state x="558" y="41" width="808" height="727" key="#Intentions" timestamp="1599653443024">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="558" y="41" width="808" height="727" key="#Intentions/0.0.1366.768@0.0.1366.768" timestamp="1599653443024" />
+    <state x="142" y="45" width="1081" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599649056942">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="142" y="45" width="1081" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1599649056942" />
+    <state x="813" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1599758630066">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="813" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1599758630066" />
+    <state x="771" y="48" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1599573967768">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="771" y="48" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.768@0.0.1366.768" timestamp="1599573967768" />
+    <state x="756" y="100" width="510" height="568" key="DiffContextDialog" timestamp="1599573589031">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="756" y="100" width="510" height="568" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1599573589031" />
+    <state x="787" y="142" width="432" height="482" key="FileChooserDialogImpl" timestamp="1599720371914">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="787" y="142" width="432" height="482" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599720371914" />
+    <state width="672" height="184" key="GridCell.Tab.0.bottom" timestamp="1599760984281">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599760984281" />
+    <state width="672" height="184" key="GridCell.Tab.0.center" timestamp="1599760984280">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599760984280" />
+    <state width="672" height="184" key="GridCell.Tab.0.left" timestamp="1599760984280">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599760984280" />
+    <state width="672" height="184" key="GridCell.Tab.0.right" timestamp="1599760984281">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599760984281" />
+    <state width="672" height="230" key="GridCell.Tab.1.bottom" timestamp="1599655419690">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="230" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599655419690" />
+    <state width="672" height="230" key="GridCell.Tab.1.center" timestamp="1599655419689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="230" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1599655419689" />
+    <state width="672" height="230" key="GridCell.Tab.1.left" timestamp="1599655419689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="230" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1599655419689" />
+    <state width="672" height="230" key="GridCell.Tab.1.right" timestamp="1599655419689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="672" height="230" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1599655419689" />
+    <state x="558" y="121" key="Vcs.Push.Dialog.v2" timestamp="1599764254481">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="558" y="121" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599764254481" />
+    <state x="765" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599764300203">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="765" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1599764300203" />
+    <state x="394" y="97" width="972" height="646" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599655326444">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="394" y="97" width="972" height="646" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1599655326444" />
+    <state x="416" y="142" width="534" height="485" key="extract.method.dialog" timestamp="1599648940467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="416" y="142" width="534" height="485" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1599648940467" />
+    <state x="456" y="136" width="910" height="512" key="new project wizard" timestamp="1599761029762">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="456" y="136" width="910" height="512" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1599761029762" />
+    <state x="674" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1599573266964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="674" y="88" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599573266964" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyApp$App.ic" NAME="App Coverage Results" MODIFIED="1599653241478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
