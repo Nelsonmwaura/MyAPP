@@ -1,24 +1,5 @@
-<<<<<<< HEAD  This is a README file , trying to make someiihkukvdvddsi
-This is a README file , trying to make some changes and push to GitHub
-
-e
-NAME: NELSON
-LOCATION: LONDON
-TITLE: FULL-STACK DEVELOPER
-
-
-
-
-
-
-
-
-
-
 DOCKER
 =======
- Unkown APPLICATION
- MAKING NEW CHANGES
 
 <h1 align="center">Hi 👋, I'm Nelson Mwaura</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
@@ -37,31 +18,3 @@ DOCKER
 
 
 
- This is a README file , trying to make some |<|   Unkown APPLICATION
-  --------------------------------------------|T|   MAKING NEW CHANGES
-                                              | |
-  --------------------------------------------|-|  <h1 align="center">Hi 👋, I'm Nelson Mwaura</h1>
-  --------------------------------------------|-|  <h3 align="center">A passionate frontend developer from Kenya</h3>
-                                              | |
-  NAME: NELSON                                |N|  - 👨<200d>💻 All of my projects are available at [https://github.com/Nelsonmwaura](https://github.com/Nelsonmwaura)
-  LOCATION: LONDON                            |L|  ---------------------------------------------------------------------------------------------------------------------------------------------
-  TITLE: FULL-STACK DEVELOPER                 |T|  ---------------------------------------------------------------------------------------------------------------------------------------------
-                                              | |
-  --------------------------------------------|-|  <h3 align="left">Connect with me:</h3>
-  --------------------------------------------|-|  <p align="left">
-  --------------------------------------------|-|  <a href="https://instagram.com/nelson_mwaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-pr
-  --------------------------------------------|-|  </p>
-                                              | |
-  --------------------------------------------|-|  <h3 align="left">Languages and Tools:</h3>
-  --------------------------------------------|-|  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devico
-                                              | |
-  --------------------------------------------|-|  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonmwaura&show_icons=true&locale=en&layout=compa
-                                              | |
-                                              | |
-                                              | |  ---------------------------------------------------------------------------------------------------------------------------------------------
-                                              | |  ---------------------------------------------------------------------------------------------------------------------------------------------
-                                              | |  ---------------------------------------------------------------------------------------------------------------------------------------------
-                                              | |  ---------------------------------------------------------------------------------------------------------------------------------------------
-                                              | |  ---------------------------------------------------------------------------------------------------------------------------------------------
-  DOCKER                                      |
->>>>>>> fb6ffe6 (Adding README file for B)
